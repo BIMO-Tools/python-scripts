@@ -1,10 +1,10 @@
 # BIMO Revit Python Scripts
 
-Welcome to the **BIMO Revit Python Scripts** repository! This repository is a collection of useful Python scripts designed to work with the **Run Python** command in the BIMO Add-in for Autodesk Revit. The scripts are created to automate routine and complex tasks, streamlining workflows for Revit users.
+Welcome to the **BIMO Revit Python Scripts** repository! This repository is a collection of useful Python scripts designed to work with the **[Run Python](https://bimo.tools/tools?button=runPython)** command in the **[BIMO Add-in](https://bimo.tools)** for Autodesk Revit. The scripts aim to automate routine and complex tasks, streamlining workflows for Revit users.
 
 ## 📋 About
 
-The **BIMO Add-in for Revit** includes a powerful **Run Python** command, which allows users to execute custom Python scripts within the Revit environment. This repository is intended to provide ready-to-use scripts for various tasks, along with examples to help you write your own.
+The **BIMO Add-in for Revit** includes a powerful **[Run Python](https://bimo.tools/tools?button=runPython)** command, which allows users to execute custom Python scripts within the Revit environment. This repository is intended to provide ready-to-use scripts for various tasks, along with examples to help you write your own.
 
 Feel free to explore the scripts, adapt them to your projects, or contribute by sharing your own scripts!
 
@@ -31,7 +31,7 @@ Each folder contains a README file with specific instructions on how to use the 
 
 1. Open Autodesk Revit.
 2. Go to the **BIMO** tab on the Revit toolbar.
-3. Click the **Run Python** button.
+3. Click the **[Run Python](https://bimo.tools/tools?button=runPython)** button.
 4. From the dropdown menu, select the Python script you want to execute (or load a new script from your computer).
 5. Click **OK** to run the script and view the results.
 
@@ -57,6 +57,8 @@ We welcome contributions from the community! If you have a useful script that yo
 ## 💬 Support
 
 If you encounter any issues or have questions about the scripts, feel free to open an issue in the GitHub repository or reach out to the community for support.
+
+For more information on the **BIMO Add-in**, visit the [BIMO Tools website](https://bimo.tools).
 
 ## 📜 License
 
