@@ -1,6 +1,5 @@
-**Script Name:** Calculate_Selected_Lines_Length_mm
+## Calculate Selected Lines Length mm
 
-**Description:**
 This Revit Python script calculates the total length of selected line elements and outputs the result in millimeters. It's designed to assist users in quickly obtaining the cumulative length of selected curves, particularly beneficial for tasks requiring precise measurements or documentation.
 
 **Key Features:**
